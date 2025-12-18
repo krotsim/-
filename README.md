@@ -6,7 +6,7 @@
 
 1.  **Клонируйте репозиторий:**
     ```bash
-    git clone https://github.com/ВАШ_ЛОГИН/НАЗВАНИЕ_РЕПОЗИТОРИЯ.git
+    git clone https://github.com/krotsim/НАЗВАНИЕ_РЕПОЗИТОРИЯ.git
     cd НАЗВАНИЕ_РЕПОЗИТОРИЯ
     ```
 
